@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saikrishnaakula
 - 👀 I’m interested in Javascript, React, Angular, SQL and No SQL Databases and C#
 - 🌱 I’m currently learning functional programming paradigm concepts 
-- 💞️ I’m looking to collaborate on accounting softwares, react components,.. etc
+- 💞️ I’m looking to collaborate on javascript based components,.. etc
 - 📫 How to reach me saikrishna.akula@outlook.com
 
 <!---
